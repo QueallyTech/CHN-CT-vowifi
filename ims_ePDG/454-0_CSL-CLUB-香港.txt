@@ -1,3 +1,4 @@
+epdg.epc.mnc000.mcc454.pub.3gppnetwork.org,
 120.88.254.1,
 120.88.254.2,
 120.88.224.1,
