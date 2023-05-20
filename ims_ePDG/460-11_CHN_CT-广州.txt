@@ -1,2 +1,3 @@
+epdg.epc.mnc011.mcc460.pub.3gppnetwork.org,
 14.25.255.118,
 14.25.255.123
