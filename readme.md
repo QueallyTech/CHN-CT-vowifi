@@ -12,6 +12,7 @@
 note1: 寻找字段`Valid ePDG Address List`,他们为VoWifi服务的ip表 按需求白名单/黑名单
 note2: `EpdgTunnelManager[]`后的括号内数字为sim卡序号 不同卡的epdg服务是分开的
 note3: `IWLAN_IKE_INTERNAL_IO_EXCEPTION`一般为被服务器拒绝了的原因 详情请google
+note4: 已知epdg服务ip将在ims_ePDG文件夹内以运营商名列出
 
 see <https://www.arubanetworks.com/techdocs/Instant_87_WebHelp/Content/instant-ug/voice-and-video/wifi-calling.htm>
 
