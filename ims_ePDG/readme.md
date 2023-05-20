@@ -11,4 +11,4 @@
 以 Pixel7Pro 为案例,Pixel6-7 系列应完美适配,Pixel系列设备关键字句应相同,类原生可参考  
 
 设备Logcat中 由`EpdgTunnelManager[]` 发送的 `Valid ePDG Address List:`  
-列表内ip即为ePDGip
+列表内ip即为ePDG服务器ip
